@@ -9,10 +9,7 @@
 
 ## Tecnologias que eu utilizo
 
-<div styles="display: inline_block"><br/>
-<img aling="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img aling="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img aling="center" alt="java" src="[https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)"/>
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
           
 </div> 
 
