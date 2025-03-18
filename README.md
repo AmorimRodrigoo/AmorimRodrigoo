@@ -1,5 +1,5 @@
 
-### Salve, me chamo Rodrigo Amorim 🤙
+### Olá, me chamo Rodrigo Amorim 🤙
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.amorim07/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-amorim7/)
